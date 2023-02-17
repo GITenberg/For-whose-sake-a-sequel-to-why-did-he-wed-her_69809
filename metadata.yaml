@@ -1,5 +1,8 @@
 _repo: For-whose-sake-a-sequel-to-why-did-he-wed-her_69809
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69809-h/images/cover.jpg
 creator:
   author:
     agent_name: Southworth, Emma Dorothy Eliza Nevitte
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1307
     wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69809#For-whose-sake-a-sequel-to-why-did-he-wed-her
 gutenberg_issued: '2023-01-15'
 identifiers:
   gutenberg: '69809'
